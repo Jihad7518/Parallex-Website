@@ -34,3 +34,31 @@
     z-index: -1;
     object-fit: cover;
 }
+
+.bgd{
+    position: relative;
+    width: 100%;
+    background-attachment: fixed;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+}
+
+h1{
+    position: absolute;
+    top: 5rem;
+    letter-spacing: 4px;
+    font-size: 10rem;
+    color: white;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 3);
+}
+
+section{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    padding: 5rem;
+
+}
+
+
