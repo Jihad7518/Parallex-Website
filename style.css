@@ -76,3 +76,13 @@ section{
     font-size: 3.5rem;
     font-weight: 600;
 }
+
+.bgd1{
+    background-image: url(bgd1.jpg);
+}
+.bgd2{
+    background-image: url(bgd2.jpg);
+}
+.bgd3{
+    background-image: url(bgd3.png);
+}
